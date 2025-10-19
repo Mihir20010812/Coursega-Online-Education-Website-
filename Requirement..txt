@@ -1,0 +1,25 @@
+
+
+Software Requirements
+
+Operating System: Windows / Linux / macOS
+
+Web Server: Apache (via XAMPP)
+
+Browser: Chrome / Firefox / Edge
+
+Database: MySQL
+
+Programming Languages: PHP, HTML, CSS, JS
+
+
+
+Hardware Requirements
+
+Processor: Intel Core i3 or higher
+
+RAM: Minimum 4 GB
+
+Hard Disk: 1 GB free space
+
+Display: 1024 × 768 resolution
